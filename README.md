@@ -41,7 +41,7 @@ I'm a student interested in software development, especially web applications. I
 | --- | --- |
 | [SPMB_Project](https://github.com/Nuelll20/SPMB_Project) | A web development project using Laravel, Blade, and Tailwind CSS. |
 | [Agent-Clipper](https://github.com/Nuelll20/Agent-Clipper) | A Python project exploring media-processing libraries and tools. |
-| [LaprakModul3](https://github.com/Nuelll20/LaprakModul3) | Java programming exercises and coursework. |
+| [Tobacco POS](https://github.com/Nuelll20/tobacco-pos) | A project development system POS. |
 
 ## Currently Exploring
 
