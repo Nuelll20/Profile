@@ -65,7 +65,7 @@ Python libraries explored: `OpenCV` · `NumPy` · `Pillow` · `Faster-Whisper` �
 | --- | --- | --- |
 | [SPMB_Project](https://github.com/Nuelll20/SPMB_Project) | Academic web development project. | Laravel, Blade, Tailwind CSS |
 | [Agent-Clipper](https://github.com/Nuelll20/Agent-Clipper) | Experiments with Python media-processing tools. | Python, OpenCV |
-| [LaprakModul3](https://github.com/Nuelll20/LaprakModul3) | Coursework and Java programming practice. | Java |
+| [Tobacco-POS](https://github.com/Nuelll20/tobacco-pos) | Project POS Beginner. | Laravel, Typescript, Tailwind CSS |
 
 ## GitHub Activity
 
